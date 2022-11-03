@@ -11207,37 +11207,14 @@
 </style><div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
 <h2 style="text-align:center;white-space:pre-wrap;">"Pasha Bhai"</h2>
-<h3 style="text-align:center;white-space:pre-wrap;"> Pasha Bhai is the nom de guerre of 23-year-old
-multilingual rapper, poet, lyricist and singer,
-Mohammed Affan Pasha of Bangalore’s
-Neelasandra. A self-taught performer, honing his
-skills since the young age of 16, he has, till date,
-released over 25 singles in Dakhni, Hindi, Urdu
-and English. He has also featured on several tracks
-by prominent Indian Hip Hop artists – most
-notably alongside Sumukh Mysore a.ka. Smokey
-The Ghost’s Balder than the Baldest from their
-sophomore album The Human Nation.
-In the nascent yet burgeoning Indian hip-hop scene
-that values both underground credibility and
-commercial appeal, Pasha Bhai’s debut single ‘Eid
-ka Chand’, produced by Manas Sharma with a
-music video directed by Vyshnav Vinod, broke
-through the noise without succumbing to the
-pressure of formulaic tropes. Released on YouTube in August 2020, ‘Eid Ka Chand’ has since then
-garnered over 50 thousand views and has been appreciated for introducing Dakhni to mainstream hiphop by both leading news outlets and music magazines alike.
-As co-founder of Bangalore’s homegrown hip-hop community, Wanandaf, commander-in-chief of
-Neelasandra’s very own hip-hop collective, Clan Bokka Phod, and between managing multiple business
-ventures, Pasha Bhai moves with an air of chaos and urgency. While the Covid-19 pandemic dampened
-many spirits, music making was amped up, leading to the release of India’s first protest rap compilation
-album Yeh Hai Baghawat in October 2020 alongside Akx and Agaahi Raahi. His latest releases, ‘Pasha
-Bhai’ and ‘Khuda Gawah’, are testament to his versatility, fusing his signature hard-hitting lyricism
-with a melodic turn to sufism.
-Having performed opening sets at concerts headlined by Indian hip-hop’s pioneers like Raftaar and
-Divine, he has demonstrated the ability to command a crowd’s attention with unmatched rhythmic flow
-and a grand cadence - cementing himself as an undeniable force amongst up-and-coming independent
-artists in the subcontinent. Focussed on creating ever-evolving, genre-bending, boundary-pushing
-music, Pasha Bhai is all set to release his debut album in 2022.</h3>
+<h3 style="text-align:center;white-space:pre-wrap;"> Pasha Bhai is the nom de guerre of 23-year-old multilingual rapper, poet, lyricist and singer, Mohammed Affan Pasha of Bangalore’s Neelasandra. 
+A self-taught performer, honing his skills since the young age of 16, he has, till date, released over 25 singles in Dakhni, Hindi, Urdu and English. 
+He has also featured on several tracks by prominent Indian Hip Hop artists – most notably alongside Sumukh Mysore a.ka. Smokey The Ghost’s Balder than the Baldest from their sophomore album The Human Nation.
+In the nascent yet burgeoning Indian hip-hop scene that values both underground credibility and commercial appeal, Pasha Bhai’s debut single ‘Eid ka Chand’, produced by Manas Sharma with a music video directed by Vyshnav Vinod, broke through the noise without succumbing to the pressure of formulaic tropes. 
+Released on YouTube in August 2020, ‘Eid Ka Chand’ has since then garnered over 50 thousand views and has been appreciated for introducing Dakhni to mainstream hiphop by both leading news outlets and music magazines alike.
+As co-founder of Bangalore’s homegrown hip-hop community, Wanandaf, commander-in-chief of Neelasandra’s very own hip-hop collective, Clan Bokka Phod, and between managing multiple business ventures, Pasha Bhai moves with an air of chaos and urgency. While the Covid-19 pandemic dampened many spirits, music making was amped up, leading to the release of India’s first protest rap compilation album Yeh Hai Baghawat in October 2020 alongside Akx and Agaahi Raahi. His latest releases, ‘Pasha Bhai’ and ‘Khuda Gawah’, are testament to his versatility, fusing his signature hard-hitting lyricism with a melodic turn to sufism.
+Having performed opening sets at concerts headlined by Indian hip-hop’s pioneers like Raftaar and Divine, he has demonstrated the ability to command a crowd’s attention with unmatched rhythmic flow and a grand cadence - cementing himself as an undeniable force amongst up-and-coming independent artists in the subcontinent. 
+Focussed on creating ever-evolving, genre-bending, boundary-pushing music, Pasha Bhai is all set to release his debut album in 2022.</h3>
 <div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
 <h2 style="text-align:center;white-space:pre-wrap;">"Clan Bokka Phod (CBP)"</h2>
