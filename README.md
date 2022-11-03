@@ -11212,102 +11212,56 @@ A self-taught performer, honing his skills since the young age of 16, he has, ti
 He has also featured on several tracks by prominent Indian Hip Hop artists – most notably alongside Sumukh Mysore a.ka. Smokey The Ghost’s Balder than the Baldest from their sophomore album The Human Nation.
 In the nascent yet burgeoning Indian hip-hop scene that values both underground credibility and commercial appeal, Pasha Bhai’s debut single ‘Eid ka Chand’, produced by Manas Sharma with a music video directed by Vyshnav Vinod, broke through the noise without succumbing to the pressure of formulaic tropes. 
 Released on YouTube in August 2020, ‘Eid Ka Chand’ has since then garnered over 50 thousand views and has been appreciated for introducing Dakhni to mainstream hiphop by both leading news outlets and music magazines alike.
-As co-founder of Bangalore’s homegrown hip-hop community, Wanandaf, commander-in-chief of Neelasandra’s very own hip-hop collective, Clan Bokka Phod, and between managing multiple business ventures, Pasha Bhai moves with an air of chaos and urgency. While the Covid-19 pandemic dampened many spirits, music making was amped up, leading to the release of India’s first protest rap compilation album Yeh Hai Baghawat in October 2020 alongside Akx and Agaahi Raahi. His latest releases, ‘Pasha Bhai’ and ‘Khuda Gawah’, are testament to his versatility, fusing his signature hard-hitting lyricism with a melodic turn to sufism.
+As co-founder of Bangalore’s homegrown hip-hop community, Wanandaf, commander-in-chief of Neelasandra’s very own hip-hop collective, Clan Bokka Phod, and between managing multiple business ventures, Pasha Bhai moves with an air of chaos and urgency. 
+While the Covid-19 pandemic dampened many spirits, music making was amped up, leading to the release of India’s first protest rap compilation album Yeh Hai Baghawat in October 2020 alongside Akx and Agaahi Raahi. 
+His latest releases, ‘Pasha Bhai’ and ‘Khuda Gawah’, are testament to his versatility, fusing his signature hard-hitting lyricism with a melodic turn to sufism.
 Having performed opening sets at concerts headlined by Indian hip-hop’s pioneers like Raftaar and Divine, he has demonstrated the ability to command a crowd’s attention with unmatched rhythmic flow and a grand cadence - cementing himself as an undeniable force amongst up-and-coming independent artists in the subcontinent. 
 Focussed on creating ever-evolving, genre-bending, boundary-pushing music, Pasha Bhai is all set to release his debut album in 2022.</h3>
 <div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
 <h2 style="text-align:center;white-space:pre-wrap;">"Clan Bokka Phod (CBP)"</h2>
 <h3 style="text-align:center;white-space:pre-wrap;"> Clan Bokka Phod (CBP) is a
-Bengaluru based hip-hop collective
-composed of rappers, poets, music
-producers, and performers. Over the
-last half-decade, CBP has staged open
-mics, street cyphers, concerts and
-social cause fundraising events across
-Bengaluru. They dropped the music
-video of their debut single on
-YouTube on 6 March 2022, called
-‘Khuda Gawah’ - a sufi rap song
-composed by resident music composer
-and engineer, Demixx, and performed
-by Pasha Bhai along with Syed,
-Nimbu Da, Marwan, and Aib. Khuda
-Gawah has till date garnered almost
-15,000 and is the leading single in CBP’s upcoming debut EP. In May 2022, Clan Bokka Phod shared
-the stage with Desi Hip-Hop’s poster boy, Raftaar, while in June 2022 they curated and performed a
+Bengaluru based hip-hop collective composed of rappers, poets, music producers, and performers. 
+Over the last half-decade, CBP has staged open mics, street cyphers, concerts and social cause fundraising events across Bengaluru. 
+They dropped the music video of their debut single on YouTube on 6 March 2022, called ‘Khuda Gawah’ - a sufi rap song composed by resident music composer and engineer, Demixx, and performed by Pasha Bhai along with Syed, Nimbu Da, Marwan, and Aib. 
+Khuda Gawah has till date garnered almost 15,000 and is the leading single in CBP’s upcoming debut EP. 
+In May 2022, Clan Bokka Phod shared the stage with Desi Hip-Hop’s poster boy, Raftaar, while in June 2022 they curated and performed a
 120-minute showcase at the Bangalore International Center.</h3>
 <div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
 <h2 style="text-align:center;white-space:pre-wrap;">"Maazi"</h2>
-<h3 style="text-align:center;white-space:pre-wrap;"> Syed Awaise Pasha a.k.a Demixx Beats a.k.a Maazi is a selftaught multi-genre music composer, recording artist,
-sound engineer, and rapper from Chintamani,
-Karnataka. Inspired by his poet mother, this 23-yearold began making music at a very young age and has
-already collaborated with some of Bangalore’s
-leading rappers and EDM producers. Pasha Bhai’s
-partner in crime and affectionately called Ontikal,
-Demixx is the driving force behind Clan Bokka
-Phod’s music.
-Demixx has produced and engineered Bangalorebased rapper Loud Silence’s self-titled debut album
-released in November 2021, as well as Pasha Bhai’s
-upcoming album Bangalore ka Potta. He also raps
-in Urdu for several songs in Clan Bokka Phod’s new
-EP.</h3>
+<h3 style="text-align:center;white-space:pre-wrap;"> Syed Awaise Pasha a.k.a Demixx Beats a.k.a Maazi is a selftaught multi-genre music composer, recording artist, sound engineer, and rapper from Chintamani, Karnataka. 
+Inspired by his poet mother, this 23-yearold began making music at a very young age and has already collaborated with some of Bangalore’s leading rappers and EDM producers. 
+Pasha Bhai’s partner in crime and affectionately called Ontikal, Demixx is the driving force behind Clan Bokka Phod’s music.
+Demixx has produced and engineered Bangalorebased rapper Loud Silence’s self-titled debut album released in November 2021, as well as Pasha Bhai’s upcoming album Bangalore ka Potta. 
+He also raps in Urdu for several songs in Clan Bokka Phod’s new EP.</h3>
 <div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
 <h2 style="text-align:center;white-space:pre-wrap;">"Syed Ahmed"</h2>
-<h3 style="text-align:center;white-space:pre-wrap;"> 24-year-old Syed Ahmed is a self-taught
-musician, composer and singer from
-Neelasandra, Bangalore. Apart from
-contributing vocal melodies and
-compositions, he also spearheads social
-media and marketing at Clan Bokka
-Phod. He describes himself as a
-nemophilist since childhood i.e.,
-someone who is fond of forests and the
-wilderness.</h3>
+<h3 style="text-align:center;white-space:pre-wrap;"> 24-year-old Syed Ahmed is a self-taught musician, composer and singer from Neelasandra, Bangalore. 
+Apart from contributing vocal melodies and compositions, he also spearheads social media and marketing at Clan Bokka Phod. 
+He describes himself as a nemophilist since childhood i.e., someone who is fond of forests and the wilderness.</h3>
 <div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
 <h2 style="text-align:center;white-space:pre-wrap;">"Nimbu Da"</h2>
-<h3 style="text-align:center;white-space:pre-wrap;"> 24-year-old Mohammed Imraaz Ahmed
-affectionately called Nimbu Da is Clan Bokka
-Phod's resident con man and hustler. Compelled
-by circumstance to look after himself and to fund
-his own education since childhood, Nimbu da has
-picked himself up and brushed the ‘dirt off his
-shoulders’ every time life has knocked him down.
-His verses in Khuda Gawah and Bichaari have
-earned him both popularity and critical appraise.
-A budding rapper and poet from Neelasandra,
-Bangalore, Nimbu da considers Dakhni as his
-pride and one day, hopes to be the pride of
-Dakhni.</h3>
+<h3 style="text-align:center;white-space:pre-wrap;"> 24-year-old Mohammed Imraaz Ahmed affectionately called Nimbu Da is Clan Bokka Phod's resident con man and hustler. 
+Compelled by circumstance to look after himself and to fund his own education since childhood, Nimbu da has picked himself up and brushed the ‘dirt off his shoulders’ every time life has knocked him down.
+His verses in Khuda Gawah and Bichaari have earned him both popularity and critical appraise.
+A budding rapper and poet from Neelasandra, Bangalore, Nimbu da considers Dakhni as his pride and one day, hopes to be the pride of Dakhni.</h3>
 <div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
 <h2 style="text-align:center;white-space:pre-wrap;">"ShoAib"</h2>
-<h3 style="text-align:center;white-space:pre-wrap;"> Mohammed Shoaib aka Aib is 23
-today but has been stealing hearts
-since 2017 performing poetry at
-college festivals across Bengaluru.
-A rapper, slam poet and performer
-from Neelasandra, Bangalore,
-Shoaib is the soul of Clan Bokka
-Phod. An athlete and sportsman
-since his school days, he can be
-found playing basketball at the
-Brigade Road Decathlon court
-every weeknight.</h3>
+<h3 style="text-align:center;white-space:pre-wrap;"> Mohammed Shoaib aka Aib is 23 today but has been stealing hearts since 2017 performing poetry at college festivals across Bengaluru.
+A rapper, slam poet and performer from Neelasandra, Bangalore, Shoaib is the soul of Clan Bokka Phod. 
+An athlete and sportsman since his school days, he can be found playing basketball at the Brigade Road Decathlon court every weeknight.</h3>
 <div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
 <h2 style="text-align:center;white-space:pre-wrap;">"Marwan"</h2>
-<h3 style="text-align:center;white-space:pre-wrap;"> 23-year-old Mohammed Marwan is a Dakhni rapper,
-digital content creator and aspiring writer from
-Neelasandra, Bangalore. He is currently developing a talk
+<h3 style="text-align:center;white-space:pre-wrap;"> 23-year-old Mohammed Marwan is a Dakhni rapper, digital content creator and aspiring writer from Neelasandra, Bangalore. 
+He is currently developing a talk
 show format to interview underground artists and
-performers in Bangalore for his YouTube Channel. As the
-crew’s very own Tony Stark, he combines his passion
-with innovation to keep Clan members fresh and on their
-toes.</h3>
+performers in Bangalore for his YouTube Channel. 
+As the crew’s very own Tony Stark, he combines his passion with innovation to keep Clan members fresh and on their toes.</h3>
 </div></div></div><div class="fe-block fe-block-c391c4bf06a221445b8d"><div class="sqs-block menu-block sqs-block-menu" data-block-type="18" id="block-c391c4bf06a221445b8d"><div class="sqs-block-content">
 
 <div class="menu-wrapper menu-style-simple">
